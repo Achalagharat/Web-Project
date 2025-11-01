@@ -1,12 +1,13 @@
 # Web-Project
 Description:
-A simple and responsive Drum Kit web page built using HTML and CSS. The project visually represents a drum set layout and demonstrates web design concepts such as layout structuring, styling, and responsive design using CSS.
+An interactive web-based drum kit built using HTML, CSS, and JavaScript. Each keypress or button click triggers a unique drum sound, showcasing the use of DOM manipulation, event listeners, and audio playback in JavaScript.
 
 Features:
-Attractive and clean drum kit layout using HTML & CSS
-Fully responsive design that works across devices
-Demonstrates front-end styling and page structure
+Play drum sounds using keyboard keys or on-screen buttons
+Smooth animations and responsive design
+Simple and beginner-friendly UI
 
 Tech Stack:
 HTML
 CSS
+JavaScript
